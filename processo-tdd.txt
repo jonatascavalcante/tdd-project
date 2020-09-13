@@ -1,0 +1,7 @@
+Primeiramente, escreve-se um teste funcional e o execute. Caso não passe, adote os seguintes passos:
+1. Escreva um teste unitário.
+2. Rode o teste unitário. 
+    2.1. Caso ele passe, verifique se necessita de uma refatoração. Caso não necessite, verifique se a aplicação precisa de refatroração e, em caso positivo, retorne para o passo 1. Caso necessite, vá para o próximo passo.
+    2.2. Escreva o código mínimo para funcionar e retorne para o passo 1.
+
+Caso o teste funcional passe, verifique se a aplicação necessita de refatoração. Em caso positivo, vá para o passo 1. Em caso negativo, recomece esse ciclo.
